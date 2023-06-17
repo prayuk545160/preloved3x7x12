@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "1055080275869",
+    "firebase_url": "https://preloved-361fc-default-rtdb.firebaseio.com",
+    "project_id": "preloved-361fc",
+    "storage_bucket": "preloved-361fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055080275869:android:2abc31d0d9e45fc16dd974",
+        "android_client_info": {
+          "package_name": "com.code2exit.preloved"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055080275869-efreprb5f470k8jsgj9kp2pfh52h04r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.code2exit.preloved",
+            "certificate_hash": "06c80f00206528feb09e5daf3912b57edb345147"
+          }
+        },
+        {
+          "client_id": "1055080275869-gd4acrm0s87ojkd25e9qme76p1knlh8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.code2exit.preloved",
+            "certificate_hash": "d3e5aa6f1de7b9af972900e964f8edfe7f3e07b0"
+          }
+        },
+        {
+          "client_id": "1055080275869-h0h8ehqio2vghv3ikdekk4kqahbgtmmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.code2exit.preloved",
+            "certificate_hash": "f834fd47ab0dfa197300dcb2b29aaac88d95f5f1"
+          }
+        },
+        {
+          "client_id": "1055080275869-jcbfine9097o8ievi2gcattqs0t8ve0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.code2exit.preloved",
+            "certificate_hash": "56d760ef6eb2cce366816730f771acfabdf7d837"
+          }
+        },
+        {
+          "client_id": "1055080275869-jkf3jts7be0ce7dvn81mbe1qtdugubda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.code2exit.preloved",
+            "certificate_hash": "5c5c4097768a8e98b9ddcbd5c726e9eb3b41e887"
+          }
+        },
+        {
+          "client_id": "1055080275869-q6fij2lv48233320rac45d1hk1s2eauf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8PO3hl3dNLC4Gci-Cg5V2TiDh5a928k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055080275869-q6fij2lv48233320rac45d1hk1s2eauf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055080275869-714k82eo7ti2sdpppkd7rpk9qrpfs1cc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.code2exit.preloved"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

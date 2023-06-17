@@ -1,0 +1,53 @@
+
+
+27/08/2022
+
+
+#Bug case callintent
+ program ยังไปจำ context ตัวเก่าทำให้เวลาหา  ui  init0
+ กลับไปเอา รายการเก่ามา มาทำ
+
+#ิbug case  f_openlink replace (eq)เป็น =แทน
+
+
+fix bug case loadpage_success not call
+
+  event tab index change set   g.nav="";
+
+
+แก้ bug call backแล้ว find view ไม่เจอให้อ่าน ui ไหม่
+
+10/1/2022
+add feature language  lg
+
+fix bug function
+replace_var
+ตรวจสอบการทำงานของ hideif containner
+
+fix bug _ojclick  set read from g.cmdval("_ojclick")
+issue:
+  if not config tab by replace page backbutton click is error
+  will goto first page
+fixbug
+   remove matirial from any page   one place in runapp only
+
+issue:
+  datagrid not show
+fix bug
+   replace  json row
+   replace fromjson
+   fix bug replace  json row
+
+issue:
+   android version 11 error
+fix bug
+   firebase regis error
+
+
+
+
+
+
+
+
+
